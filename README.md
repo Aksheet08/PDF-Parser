@@ -1,6 +1,6 @@
 # PDF Parser - Structured JSON Extraction
 
-A Python application that extracts structured content from PDF files and converts it into well-organized JSON format while preserving document hierarchy.
+A Python application that extracts structured content including Tables and charts from PDF files and converts it into well-organized JSON format while preserving document hierarchy.
 
 ## Author
 **Aksheet Ranjan**  
